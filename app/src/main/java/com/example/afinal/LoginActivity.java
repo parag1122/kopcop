@@ -17,6 +17,7 @@ import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 
 public class LoginActivity extends AppCompatActivity {
+//This is develop branch file
     Button btnLogIn,btnSignUp;
     /*   public EditText loginEmailId, logInpasswd;
        Button btnLogIn,btnSignUp;
