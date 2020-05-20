@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Splash_Screen"
+    android:background="#ffffff"
+android:orientation="vertical"
+    android:gravity="center_horizontal|center_vertical"
+    >
+
+    <ImageView
+        android:layout_width="262dp"
+        android:layout_height="264dp"
+        app:srcCompat="@mipmap/logo_foreground"
+        />
+</RelativeLayout>

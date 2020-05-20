@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Garbage Picker</string>
+    <string name="home">Home</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contactus">
+        <br>This app is developed for Kolhapur municipal Corporation.</br>
+       <br> The purpose is to manage garbage from city.\n</br>
+        <br></br>
+        <br></br>
+       <br> The  developers of app are -->\n</br>
+       <br> 1.Prasad Reddy  \n\t\t prasad.reddy@gmail.com \n</br>
+       <br> 2.Parag Pawale  \n\t\t pspawale12@gmail.com\n</br>
+    </string>
+</resources>

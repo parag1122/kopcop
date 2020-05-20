@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/qrscan"
+        android:title="Scanner"
+
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/fedback"
+        android:title="Feedback"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/contact"
+        android:title="Contact Us"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/ourareas"
+        android:title="Our Areas"
+        app:showAsAction="never"
+        >
+        <menu>
+            <item
+                android:id="@+id/CBS"
+                android:title="CBS"
+                />
+            <item
+                android:id="@+id/Shahupuri"
+                android:title="Shahupuri"
+                />
+            <item
+                android:id="@+id/rjm"
+                android:title="Rajarampuri"
+                />
+            <item
+                android:id="@+id/Ksbp"
+                android:title="KSBP"
+
+                />
+            <item
+                android:id="@+id/Kit"
+                android:title="KITCOEK"
+                />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/logout"
+        android:title="Logout"
+        app:showAsAction="never"
+        />
+</menu>
